@@ -1,4 +1,4 @@
-# cancerdetection
+# cancer detection
 CNN model to classify blood cell images into 5 types (basophil, erythroblast, monocyte, myeloblast, seg_neutrophil) to assist in early detection of hematologic cancers.
 
 Le but de ce travail est de développer un modèle d’apprentissage profond (deep learning) capable de classifier des images microscopiques de cellules sanguines, afin d’identifier des types cellulaires spécifiques – notamment ceux associés à des cancers hématologiques comme les leucémies.
